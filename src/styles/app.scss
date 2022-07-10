@@ -1,0 +1,16 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.app-main {
+    background: #FFFAFA;
+
+    @import './emailheader.scss';
+    @import './emailcard.scss';
+}

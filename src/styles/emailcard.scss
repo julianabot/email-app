@@ -1,0 +1,156 @@
+.email-card {
+    display: flex;
+    flex-direction: column;
+    // align-items: center;
+    margin: 0px 90px 10px 90px;
+    padding: 20px 30px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+
+    p {
+        margin: 0;
+        font-size: 14px;
+    }
+
+    h1 {
+        font-size: 20px;
+        margin: 0;
+    }
+
+    h2 {
+        font-size: 15px;
+        margin: 0;
+        color: gray;
+        font-weight: 400;
+    }
+
+    span {
+        font-size: 12px;
+    }
+
+    .email-preview {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .left-half {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        flex: 5;
+        gap: 15px
+    }
+
+    .right-half {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        flex: 3;
+        justify-content: flex-end;
+        gap: 15px;
+    }
+
+    input[type="checkbox"] {
+        zoom: 1.5;
+        margin: 0;
+    }
+
+    .online-circle {
+        width: 20px;
+        height: 20px;
+        border-radius: 100%;
+        background-color: green;
+    }
+
+    .date-box {
+        border: 1px solid lightgray;
+        border-radius: 5px;
+        padding: 3px 15px 4px 15px;
+        align-items: center;
+        text-align: center;
+
+        p {
+            font-size: 12px;
+        }
+    }
+
+    .user-icon {
+        width: 40px;
+        height: 40px;
+        background-color: gray;
+        border-radius: 100%;
+        align-self: center;
+
+        text-align: center;
+        position: relative;
+
+        span {
+            font-size: 18px;
+            margin: 0;
+            padding: 0;
+            padding-top: 1px;
+            color: white;
+
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    }
+
+    .message-preview {
+        span {
+            font-size: 13px;
+        }
+    }
+
+    .tag-holder {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+        align-self: flex-start;
+        flex: 5;
+
+        .message-tag {
+
+            border: 1px solid lightseagreen;
+            background-color: aliceblue;
+            border-radius: 5px;
+            margin: 0px 2px 2px 2px;
+            padding: 2px 6px;
+
+            p {
+                font-size: 10px;
+                color: lightseagreen;
+            }
+        }
+    }
+
+    .clock-holder {
+        flex: 1;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+
+        p {
+            color: #F6BE00;
+            padding-left: 5px;
+            font-size: 10px;
+        }
+    }
+
+    .email-content {
+        padding-top: 10px;
+
+        hr {
+            border-top: 1px dashed lightgray;
+            margin-bottom: 15px;
+        }
+
+        .email-expand {
+            display: flex;
+            direction: row;
+        }
+    }
+}
