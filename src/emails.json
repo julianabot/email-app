@@ -1,5 +1,29 @@
 [
     {
+        "id": 0,
+        "date": [
+            "January",
+            "3",
+            "2022"
+        ],
+        "emailSubject": "Fwd: New Project 1",
+        "sender": [
+            "Leo",
+            "M'anoban",
+            "sbtest.khr@gmail.com"
+        ],
+        "receiver": [
+            "Juliana",
+            "Rolluqui",
+            "mjsr@gmail.com"
+        ],
+        "content": "I'm so sick of running as fast as I can; Wondering if I'd get there quicker; If I was a man",
+        "tags": [
+            "New Project",
+            "Internship"
+        ]
+    },
+    {
         "id": 1,
         "date": [
             "April",
@@ -22,6 +46,31 @@
             "Birthday",
             "Party",
             "Break"
+        ]
+    },
+    {
+        "id": 2,
+        "date": [
+            "February",
+            "12",
+            "2025"
+        ],
+        "emailSubject": "Congratulations!",
+        "sender": [
+            "Sundar",
+            "Pichar",
+            "spichar@gmail.com"
+        ],
+        "receiver": [
+            "Juliana",
+            "Rolluqui",
+            "mjsr@gmail.com"
+        ],
+        "content": "You are accepted as one of our sought after professional!",
+        "tags": [
+            "Job",
+            "Application",
+            "Interview"
         ]
     },
     {
