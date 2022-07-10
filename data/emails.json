@@ -1,0 +1,2484 @@
+{
+    "emails": [
+        {
+            "id": 0,
+            "date": [
+                "January",
+                "3",
+                "2022"
+            ],
+            "emailSubject": "Fwd: New Project 1",
+            "sender": [
+                "Leo",
+                "M'anoban",
+                "sbtest.khr@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Mr feeling do chiefly cordial in do. Water timed folly right aware if oh truth.!",
+            "tags": [
+                "New Project",
+                "Internship"
+            ]
+        },
+        {
+            "id": 1,
+            "date": [
+                "April",
+                "10",
+                "2022"
+            ],
+            "emailSubject": "Happy Birthday!",
+            "sender": [
+                "Maria",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "receiver": [
+                "Jeco",
+                "Villanueva",
+                "jjvils@gmail.com"
+            ],
+            "content": "Today is your birthday! :)",
+            "tags": [
+                "Birthday",
+                "Party",
+                "Break"
+            ]
+        },
+        {
+            "id": 2,
+            "date": [
+                "February",
+                "12",
+                "2025"
+            ],
+            "emailSubject": "Congratulations!",
+            "sender": [
+                "Sundar",
+                "Pichar",
+                "spichar@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "You are accepted as one of our sought after professional!",
+            "tags": [
+                "Job",
+                "Application",
+                "Interview"
+            ]
+        },
+        {
+            "id": 3,
+            "date": [
+                "July",
+                "11",
+                "2022"
+            ],
+            "emailSubject": "Project on Seaside!",
+            "sender": [
+                "Steve",
+                "Jobs",
+                "sjobs@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "And my waves meet your shore, ever and evermore",
+            "tags": [
+                "New Project",
+                "TagsSample",
+                "Another"
+            ]
+        },
+        {
+            "id": 4,
+            "date": [
+                "November",
+                "22",
+                "2022"
+            ],
+            "emailSubject": "Taylor Swift Concert",
+            "sender": [
+                "Taylor",
+                "Swift",
+                "tswift@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "You are invited to come to my concert! Free tickets!",
+            "tags": [
+                "VIP",
+                "Concert",
+                "Song"
+            ]
+        },
+        {
+            "id": 5,
+            "date": [
+                "December",
+                "2",
+                "2022"
+            ],
+            "emailSubject": "Meteor Shower",
+            "sender": [
+                "NASA",
+                "USA",
+                "nasa@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Join to see the meteor shower this saturday",
+            "tags": [
+                "Astronomy",
+                "Science",
+                "Meteor",
+                "YOLO"
+            ]
+        },
+        {
+            "id": 6,
+            "date": [
+                "March",
+                "23",
+                "2029"
+            ],
+            "emailSubject": "I'm getting married!",
+            "sender": [
+                "Selena",
+                "Gomez",
+                "selgom@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Come to my wedding please!",
+            "tags": [
+                "Wedding",
+                "Party",
+                "Beach"
+            ]
+        },
+        {
+            "id": 7,
+            "date": [
+                "March",
+                "23",
+                "2023"
+            ],
+            "emailSubject": "Angat Buhay Foundation",
+            "sender": [
+                "Leni",
+                "Robredo",
+                "lenrob@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Join us on our charity event this saturday!",
+            "tags": [
+                "Foundation",
+                "Transparency"
+            ]
+        },
+        {
+            "id": 8,
+            "date": [
+                "December",
+                "25",
+                "2023"
+            ],
+            "emailSubject": "Merry Christmas",
+            "sender": [
+                "Santa",
+                "Clause",
+                "santaclause@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "HO! HO! HO! MERRY CHRISMTAS!",
+            "tags": [
+                "Holiday",
+                "Break",
+                "No Work"
+            ]
+        },
+        {
+            "id": 9,
+            "date": [
+                "January",
+                "1",
+                "2024"
+            ],
+            "emailSubject": "Happy New Year!",
+            "sender": [
+                "Risa",
+                "Hontiveros",
+                "risahon@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Another year another platform for the poor!",
+            "tags": [
+                "New Year",
+                "New Me"
+            ]
+        },
+        {
+            "id": 10,
+            "date": [
+                "January",
+                "3",
+                "2022"
+            ],
+            "emailSubject": "Fwd: New Project 1",
+            "sender": [
+                "Leo",
+                "M'anoban",
+                "sbtest.khr@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Mr feeling do chiefly cordial in do. Water timed folly right aware if oh truth.!",
+            "tags": [
+                "New Project",
+                "Internship"
+            ]
+        },
+        {
+            "id": 11,
+            "date": [
+                "April",
+                "10",
+                "2022"
+            ],
+            "emailSubject": "Happy Birthday!",
+            "sender": [
+                "Maria",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "receiver": [
+                "Jeco",
+                "Villanueva",
+                "jjvils@gmail.com"
+            ],
+            "content": "Today is your birthday! :)",
+            "tags": [
+                "Birthday",
+                "Party",
+                "Break"
+            ]
+        },
+        {
+            "id": 12,
+            "date": [
+                "February",
+                "12",
+                "2025"
+            ],
+            "emailSubject": "Congratulations!",
+            "sender": [
+                "Sundar",
+                "Pichar",
+                "spichar@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "You are accepted as one of our sought after professional!",
+            "tags": [
+                "Job",
+                "Application",
+                "Interview"
+            ]
+        },
+        {
+            "id": 13,
+            "date": [
+                "July",
+                "11",
+                "2022"
+            ],
+            "emailSubject": "Project on Seaside!",
+            "sender": [
+                "Steve",
+                "Jobs",
+                "sjobs@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "And my waves meet your shore, ever and evermore",
+            "tags": [
+                "New Project",
+                "TagsSample",
+                "Another"
+            ]
+        },
+        {
+            "id": 14,
+            "date": [
+                "November",
+                "22",
+                "2022"
+            ],
+            "emailSubject": "Taylor Swift Concert",
+            "sender": [
+                "Taylor",
+                "Swift",
+                "tswift@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "You are invited to come to my concert! Free tickets!",
+            "tags": [
+                "VIP",
+                "Concert",
+                "Song"
+            ]
+        },
+        {
+            "id": 15,
+            "date": [
+                "December",
+                "2",
+                "2022"
+            ],
+            "emailSubject": "Meteor Shower",
+            "sender": [
+                "NASA",
+                "USA",
+                "nasa@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Join to see the meteor shower this saturday",
+            "tags": [
+                "Astronomy",
+                "Science",
+                "Meteor",
+                "YOLO"
+            ]
+        },
+        {
+            "id": 16,
+            "date": [
+                "March",
+                "23",
+                "2029"
+            ],
+            "emailSubject": "I'm getting married!",
+            "sender": [
+                "Selena",
+                "Gomez",
+                "selgom@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Come to my wedding please!",
+            "tags": [
+                "Wedding",
+                "Party",
+                "Beach"
+            ]
+        },
+        {
+            "id": 17,
+            "date": [
+                "March",
+                "23",
+                "2023"
+            ],
+            "emailSubject": "Angat Buhay Foundation",
+            "sender": [
+                "Leni",
+                "Robredo",
+                "lenrob@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Join us on our charity event this saturday!",
+            "tags": [
+                "Foundation",
+                "Transparency"
+            ]
+        },
+        {
+            "id": 18,
+            "date": [
+                "December",
+                "25",
+                "2023"
+            ],
+            "emailSubject": "Merry Christmas",
+            "sender": [
+                "Santa",
+                "Clause",
+                "santaclause@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "HO! HO! HO! MERRY CHRISMTAS!",
+            "tags": [
+                "Holiday",
+                "Break",
+                "No Work"
+            ]
+        },
+        {
+            "id": 19,
+            "date": [
+                "January",
+                "1",
+                "2024"
+            ],
+            "emailSubject": "Happy New Year!",
+            "sender": [
+                "Risa",
+                "Hontiveros",
+                "risahon@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Another year another platform for the poor!",
+            "tags": [
+                "New Year",
+                "New Me"
+            ]
+        },
+        {
+            "id": 20,
+            "date": [
+                "January",
+                "3",
+                "2022"
+            ],
+            "emailSubject": "Fwd: New Project 1",
+            "sender": [
+                "Leo",
+                "M'anoban",
+                "sbtest.khr@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Mr feeling do chiefly cordial in do. Water timed folly right aware if oh truth.!",
+            "tags": [
+                "New Project",
+                "Internship"
+            ]
+        },
+        {
+            "id": 21,
+            "date": [
+                "April",
+                "10",
+                "2022"
+            ],
+            "emailSubject": "Happy Birthday!",
+            "sender": [
+                "Maria",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "receiver": [
+                "Jeco",
+                "Villanueva",
+                "jjvils@gmail.com"
+            ],
+            "content": "Today is your birthday! :)",
+            "tags": [
+                "Birthday",
+                "Party",
+                "Break"
+            ]
+        },
+        {
+            "id": 22,
+            "date": [
+                "February",
+                "12",
+                "2025"
+            ],
+            "emailSubject": "Congratulations!",
+            "sender": [
+                "Sundar",
+                "Pichar",
+                "spichar@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "You are accepted as one of our sought after professional!",
+            "tags": [
+                "Job",
+                "Application",
+                "Interview"
+            ]
+        },
+        {
+            "id": 23,
+            "date": [
+                "July",
+                "11",
+                "2022"
+            ],
+            "emailSubject": "Project on Seaside!",
+            "sender": [
+                "Steve",
+                "Jobs",
+                "sjobs@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "And my waves meet your shore, ever and evermore",
+            "tags": [
+                "New Project",
+                "TagsSample",
+                "Another"
+            ]
+        },
+        {
+            "id": 24,
+            "date": [
+                "November",
+                "22",
+                "2022"
+            ],
+            "emailSubject": "Taylor Swift Concert",
+            "sender": [
+                "Taylor",
+                "Swift",
+                "tswift@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "You are invited to come to my concert! Free tickets!",
+            "tags": [
+                "VIP",
+                "Concert",
+                "Song"
+            ]
+        },
+        {
+            "id": 25,
+            "date": [
+                "December",
+                "2",
+                "2022"
+            ],
+            "emailSubject": "Meteor Shower",
+            "sender": [
+                "NASA",
+                "USA",
+                "nasa@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Join to see the meteor shower this saturday",
+            "tags": [
+                "Astronomy",
+                "Science",
+                "Meteor",
+                "YOLO"
+            ]
+        },
+        {
+            "id": 26,
+            "date": [
+                "March",
+                "23",
+                "2029"
+            ],
+            "emailSubject": "I'm getting married!",
+            "sender": [
+                "Selena",
+                "Gomez",
+                "selgom@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Come to my wedding please!",
+            "tags": [
+                "Wedding",
+                "Party",
+                "Beach"
+            ]
+        },
+        {
+            "id": 27,
+            "date": [
+                "March",
+                "23",
+                "2023"
+            ],
+            "emailSubject": "Angat Buhay Foundation",
+            "sender": [
+                "Leni",
+                "Robredo",
+                "lenrob@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Join us on our charity event this saturday!",
+            "tags": [
+                "Foundation",
+                "Transparency"
+            ]
+        },
+        {
+            "id": 28,
+            "date": [
+                "December",
+                "25",
+                "2023"
+            ],
+            "emailSubject": "Merry Christmas",
+            "sender": [
+                "Santa",
+                "Clause",
+                "santaclause@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "HO! HO! HO! MERRY CHRISMTAS!",
+            "tags": [
+                "Holiday",
+                "Break",
+                "No Work"
+            ]
+        },
+        {
+            "id": 29,
+            "date": [
+                "January",
+                "1",
+                "2024"
+            ],
+            "emailSubject": "Happy New Year!",
+            "sender": [
+                "Risa",
+                "Hontiveros",
+                "risahon@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Another year another platform for the poor!",
+            "tags": [
+                "New Year",
+                "New Me"
+            ]
+        },
+        {
+            "id": 30,
+            "date": [
+                "January",
+                "3",
+                "2022"
+            ],
+            "emailSubject": "Fwd: New Project 1",
+            "sender": [
+                "Leo",
+                "M'anoban",
+                "sbtest.khr@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Mr feeling do chiefly cordial in do. Water timed folly right aware if oh truth.!",
+            "tags": [
+                "New Project",
+                "Internship"
+            ]
+        },
+        {
+            "id": 31,
+            "date": [
+                "April",
+                "10",
+                "2022"
+            ],
+            "emailSubject": "Happy Birthday!",
+            "sender": [
+                "Maria",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "receiver": [
+                "Jeco",
+                "Villanueva",
+                "jjvils@gmail.com"
+            ],
+            "content": "Today is your birthday! :)",
+            "tags": [
+                "Birthday",
+                "Party",
+                "Break"
+            ]
+        },
+        {
+            "id": 32,
+            "date": [
+                "February",
+                "12",
+                "2025"
+            ],
+            "emailSubject": "Congratulations!",
+            "sender": [
+                "Sundar",
+                "Pichar",
+                "spichar@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "You are accepted as one of our sought after professional!",
+            "tags": [
+                "Job",
+                "Application",
+                "Interview"
+            ]
+        },
+        {
+            "id": 33,
+            "date": [
+                "July",
+                "11",
+                "2022"
+            ],
+            "emailSubject": "Project on Seaside!",
+            "sender": [
+                "Steve",
+                "Jobs",
+                "sjobs@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "And my waves meet your shore, ever and evermore",
+            "tags": [
+                "New Project",
+                "TagsSample",
+                "Another"
+            ]
+        },
+        {
+            "id": 34,
+            "date": [
+                "November",
+                "22",
+                "2022"
+            ],
+            "emailSubject": "Taylor Swift Concert",
+            "sender": [
+                "Taylor",
+                "Swift",
+                "tswift@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "You are invited to come to my concert! Free tickets!",
+            "tags": [
+                "VIP",
+                "Concert",
+                "Song"
+            ]
+        },
+        {
+            "id": 35,
+            "date": [
+                "December",
+                "2",
+                "2022"
+            ],
+            "emailSubject": "Meteor Shower",
+            "sender": [
+                "NASA",
+                "USA",
+                "nasa@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Join to see the meteor shower this saturday",
+            "tags": [
+                "Astronomy",
+                "Science",
+                "Meteor",
+                "YOLO"
+            ]
+        },
+        {
+            "id": 36,
+            "date": [
+                "March",
+                "23",
+                "2029"
+            ],
+            "emailSubject": "I'm getting married!",
+            "sender": [
+                "Selena",
+                "Gomez",
+                "selgom@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Come to my wedding please!",
+            "tags": [
+                "Wedding",
+                "Party",
+                "Beach"
+            ]
+        },
+        {
+            "id": 37,
+            "date": [
+                "March",
+                "23",
+                "2023"
+            ],
+            "emailSubject": "Angat Buhay Foundation",
+            "sender": [
+                "Leni",
+                "Robredo",
+                "lenrob@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Join us on our charity event this saturday!",
+            "tags": [
+                "Foundation",
+                "Transparency"
+            ]
+        },
+        {
+            "id": 38,
+            "date": [
+                "December",
+                "25",
+                "2023"
+            ],
+            "emailSubject": "Merry Christmas",
+            "sender": [
+                "Santa",
+                "Clause",
+                "santaclause@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "HO! HO! HO! MERRY CHRISMTAS!",
+            "tags": [
+                "Holiday",
+                "Break",
+                "No Work"
+            ]
+        },
+        {
+            "id": 39,
+            "date": [
+                "January",
+                "1",
+                "2024"
+            ],
+            "emailSubject": "Happy New Year!",
+            "sender": [
+                "Risa",
+                "Hontiveros",
+                "risahon@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Another year another platform for the poor!",
+            "tags": [
+                "New Year",
+                "New Me"
+            ]
+        },
+        {
+            "id": 40,
+            "date": [
+                "January",
+                "3",
+                "2022"
+            ],
+            "emailSubject": "Fwd: New Project 1",
+            "sender": [
+                "Leo",
+                "M'anoban",
+                "sbtest.khr@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Mr feeling do chiefly cordial in do. Water timed folly right aware if oh truth.!",
+            "tags": [
+                "New Project",
+                "Internship"
+            ]
+        },
+        {
+            "id": 41,
+            "date": [
+                "April",
+                "10",
+                "2022"
+            ],
+            "emailSubject": "Happy Birthday!",
+            "sender": [
+                "Maria",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "receiver": [
+                "Jeco",
+                "Villanueva",
+                "jjvils@gmail.com"
+            ],
+            "content": "Today is your birthday! :)",
+            "tags": [
+                "Birthday",
+                "Party",
+                "Break"
+            ]
+        },
+        {
+            "id": 42,
+            "date": [
+                "February",
+                "12",
+                "2025"
+            ],
+            "emailSubject": "Congratulations!",
+            "sender": [
+                "Sundar",
+                "Pichar",
+                "spichar@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "You are accepted as one of our sought after professional!",
+            "tags": [
+                "Job",
+                "Application",
+                "Interview"
+            ]
+        },
+        {
+            "id": 43,
+            "date": [
+                "July",
+                "11",
+                "2022"
+            ],
+            "emailSubject": "Project on Seaside!",
+            "sender": [
+                "Steve",
+                "Jobs",
+                "sjobs@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "And my waves meet your shore, ever and evermore",
+            "tags": [
+                "New Project",
+                "TagsSample",
+                "Another"
+            ]
+        },
+        {
+            "id": 44,
+            "date": [
+                "November",
+                "22",
+                "2022"
+            ],
+            "emailSubject": "Taylor Swift Concert",
+            "sender": [
+                "Taylor",
+                "Swift",
+                "tswift@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "You are invited to come to my concert! Free tickets!",
+            "tags": [
+                "VIP",
+                "Concert",
+                "Song"
+            ]
+        },
+        {
+            "id": 45,
+            "date": [
+                "December",
+                "2",
+                "2022"
+            ],
+            "emailSubject": "Meteor Shower",
+            "sender": [
+                "NASA",
+                "USA",
+                "nasa@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Join to see the meteor shower this saturday",
+            "tags": [
+                "Astronomy",
+                "Science",
+                "Meteor",
+                "YOLO"
+            ]
+        },
+        {
+            "id": 46,
+            "date": [
+                "March",
+                "23",
+                "2029"
+            ],
+            "emailSubject": "I'm getting married!",
+            "sender": [
+                "Selena",
+                "Gomez",
+                "selgom@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Come to my wedding please!",
+            "tags": [
+                "Wedding",
+                "Party",
+                "Beach"
+            ]
+        },
+        {
+            "id": 47,
+            "date": [
+                "March",
+                "23",
+                "2023"
+            ],
+            "emailSubject": "Angat Buhay Foundation",
+            "sender": [
+                "Leni",
+                "Robredo",
+                "lenrob@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Join us on our charity event this saturday!",
+            "tags": [
+                "Foundation",
+                "Transparency"
+            ]
+        },
+        {
+            "id": 48,
+            "date": [
+                "December",
+                "25",
+                "2023"
+            ],
+            "emailSubject": "Merry Christmas",
+            "sender": [
+                "Santa",
+                "Clause",
+                "santaclause@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "HO! HO! HO! MERRY CHRISMTAS!",
+            "tags": [
+                "Holiday",
+                "Break",
+                "No Work"
+            ]
+        },
+        {
+            "id": 49,
+            "date": [
+                "January",
+                "1",
+                "2024"
+            ],
+            "emailSubject": "Happy New Year!",
+            "sender": [
+                "Risa",
+                "Hontiveros",
+                "risahon@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Another year another platform for the poor!",
+            "tags": [
+                "New Year",
+                "New Me"
+            ]
+        },
+        {
+            "id": 50,
+            "date": [
+                "January",
+                "3",
+                "2022"
+            ],
+            "emailSubject": "Fwd: New Project 1",
+            "sender": [
+                "Leo",
+                "M'anoban",
+                "sbtest.khr@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Mr feeling do chiefly cordial in do. Water timed folly right aware if oh truth.!",
+            "tags": [
+                "New Project",
+                "Internship"
+            ]
+        },
+        {
+            "id": 51,
+            "date": [
+                "April",
+                "10",
+                "2022"
+            ],
+            "emailSubject": "Happy Birthday!",
+            "sender": [
+                "Maria",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "receiver": [
+                "Jeco",
+                "Villanueva",
+                "jjvils@gmail.com"
+            ],
+            "content": "Today is your birthday! :)",
+            "tags": [
+                "Birthday",
+                "Party",
+                "Break"
+            ]
+        },
+        {
+            "id": 52,
+            "date": [
+                "February",
+                "12",
+                "2025"
+            ],
+            "emailSubject": "Congratulations!",
+            "sender": [
+                "Sundar",
+                "Pichar",
+                "spichar@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "You are accepted as one of our sought after professional!",
+            "tags": [
+                "Job",
+                "Application",
+                "Interview"
+            ]
+        },
+        {
+            "id": 53,
+            "date": [
+                "July",
+                "11",
+                "2022"
+            ],
+            "emailSubject": "Project on Seaside!",
+            "sender": [
+                "Steve",
+                "Jobs",
+                "sjobs@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "And my waves meet your shore, ever and evermore",
+            "tags": [
+                "New Project",
+                "TagsSample",
+                "Another"
+            ]
+        },
+        {
+            "id": 54,
+            "date": [
+                "November",
+                "22",
+                "2022"
+            ],
+            "emailSubject": "Taylor Swift Concert",
+            "sender": [
+                "Taylor",
+                "Swift",
+                "tswift@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "You are invited to come to my concert! Free tickets!",
+            "tags": [
+                "VIP",
+                "Concert",
+                "Song"
+            ]
+        },
+        {
+            "id": 55,
+            "date": [
+                "December",
+                "2",
+                "2022"
+            ],
+            "emailSubject": "Meteor Shower",
+            "sender": [
+                "NASA",
+                "USA",
+                "nasa@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Join to see the meteor shower this saturday",
+            "tags": [
+                "Astronomy",
+                "Science",
+                "Meteor",
+                "YOLO"
+            ]
+        },
+        {
+            "id": 56,
+            "date": [
+                "March",
+                "23",
+                "2029"
+            ],
+            "emailSubject": "I'm getting married!",
+            "sender": [
+                "Selena",
+                "Gomez",
+                "selgom@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Come to my wedding please!",
+            "tags": [
+                "Wedding",
+                "Party",
+                "Beach"
+            ]
+        },
+        {
+            "id": 57,
+            "date": [
+                "March",
+                "23",
+                "2023"
+            ],
+            "emailSubject": "Angat Buhay Foundation",
+            "sender": [
+                "Leni",
+                "Robredo",
+                "lenrob@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Join us on our charity event this saturday!",
+            "tags": [
+                "Foundation",
+                "Transparency"
+            ]
+        },
+        {
+            "id": 58,
+            "date": [
+                "December",
+                "25",
+                "2023"
+            ],
+            "emailSubject": "Merry Christmas",
+            "sender": [
+                "Santa",
+                "Clause",
+                "santaclause@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "HO! HO! HO! MERRY CHRISMTAS!",
+            "tags": [
+                "Holiday",
+                "Break",
+                "No Work"
+            ]
+        },
+        {
+            "id": 59,
+            "date": [
+                "January",
+                "1",
+                "2024"
+            ],
+            "emailSubject": "Happy New Year!",
+            "sender": [
+                "Risa",
+                "Hontiveros",
+                "risahon@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Another year another platform for the poor!",
+            "tags": [
+                "New Year",
+                "New Me"
+            ]
+        },
+        {
+            "id": 60,
+            "date": [
+                "January",
+                "3",
+                "2022"
+            ],
+            "emailSubject": "Fwd: New Project 1",
+            "sender": [
+                "Leo",
+                "M'anoban",
+                "sbtest.khr@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Mr feeling do chiefly cordial in do. Water timed folly right aware if oh truth.!",
+            "tags": [
+                "New Project",
+                "Internship"
+            ]
+        },
+        {
+            "id": 61,
+            "date": [
+                "April",
+                "10",
+                "2022"
+            ],
+            "emailSubject": "Happy Birthday!",
+            "sender": [
+                "Maria",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "receiver": [
+                "Jeco",
+                "Villanueva",
+                "jjvils@gmail.com"
+            ],
+            "content": "Today is your birthday! :)",
+            "tags": [
+                "Birthday",
+                "Party",
+                "Break"
+            ]
+        },
+        {
+            "id": 62,
+            "date": [
+                "February",
+                "12",
+                "2025"
+            ],
+            "emailSubject": "Congratulations!",
+            "sender": [
+                "Sundar",
+                "Pichar",
+                "spichar@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "You are accepted as one of our sought after professional!",
+            "tags": [
+                "Job",
+                "Application",
+                "Interview"
+            ]
+        },
+        {
+            "id": 63,
+            "date": [
+                "July",
+                "11",
+                "2022"
+            ],
+            "emailSubject": "Project on Seaside!",
+            "sender": [
+                "Steve",
+                "Jobs",
+                "sjobs@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "And my waves meet your shore, ever and evermore",
+            "tags": [
+                "New Project",
+                "TagsSample",
+                "Another"
+            ]
+        },
+        {
+            "id": 64,
+            "date": [
+                "November",
+                "22",
+                "2022"
+            ],
+            "emailSubject": "Taylor Swift Concert",
+            "sender": [
+                "Taylor",
+                "Swift",
+                "tswift@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "You are invited to come to my concert! Free tickets!",
+            "tags": [
+                "VIP",
+                "Concert",
+                "Song"
+            ]
+        },
+        {
+            "id": 65,
+            "date": [
+                "December",
+                "2",
+                "2022"
+            ],
+            "emailSubject": "Meteor Shower",
+            "sender": [
+                "NASA",
+                "USA",
+                "nasa@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Join to see the meteor shower this saturday",
+            "tags": [
+                "Astronomy",
+                "Science",
+                "Meteor",
+                "YOLO"
+            ]
+        },
+        {
+            "id": 66,
+            "date": [
+                "March",
+                "23",
+                "2029"
+            ],
+            "emailSubject": "I'm getting married!",
+            "sender": [
+                "Selena",
+                "Gomez",
+                "selgom@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Come to my wedding please!",
+            "tags": [
+                "Wedding",
+                "Party",
+                "Beach"
+            ]
+        },
+        {
+            "id": 67,
+            "date": [
+                "March",
+                "23",
+                "2023"
+            ],
+            "emailSubject": "Angat Buhay Foundation",
+            "sender": [
+                "Leni",
+                "Robredo",
+                "lenrob@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Join us on our charity event this saturday!",
+            "tags": [
+                "Foundation",
+                "Transparency"
+            ]
+        },
+        {
+            "id": 68,
+            "date": [
+                "December",
+                "25",
+                "2023"
+            ],
+            "emailSubject": "Merry Christmas",
+            "sender": [
+                "Santa",
+                "Clause",
+                "santaclause@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "HO! HO! HO! MERRY CHRISMTAS!",
+            "tags": [
+                "Holiday",
+                "Break",
+                "No Work"
+            ]
+        },
+        {
+            "id": 69,
+            "date": [
+                "January",
+                "1",
+                "2024"
+            ],
+            "emailSubject": "Happy New Year!",
+            "sender": [
+                "Risa",
+                "Hontiveros",
+                "risahon@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Another year another platform for the poor!",
+            "tags": [
+                "New Year",
+                "New Me"
+            ]
+        },
+        {
+            "id": 70,
+            "date": [
+                "January",
+                "3",
+                "2022"
+            ],
+            "emailSubject": "Fwd: New Project 1",
+            "sender": [
+                "Leo",
+                "M'anoban",
+                "sbtest.khr@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Mr feeling do chiefly cordial in do. Water timed folly right aware if oh truth.!",
+            "tags": [
+                "New Project",
+                "Internship"
+            ]
+        },
+        {
+            "id": 71,
+            "date": [
+                "April",
+                "10",
+                "2022"
+            ],
+            "emailSubject": "Happy Birthday!",
+            "sender": [
+                "Maria",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "receiver": [
+                "Jeco",
+                "Villanueva",
+                "jjvils@gmail.com"
+            ],
+            "content": "Today is your birthday! :)",
+            "tags": [
+                "Birthday",
+                "Party",
+                "Break"
+            ]
+        },
+        {
+            "id": 72,
+            "date": [
+                "February",
+                "12",
+                "2025"
+            ],
+            "emailSubject": "Congratulations!",
+            "sender": [
+                "Sundar",
+                "Pichar",
+                "spichar@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "You are accepted as one of our sought after professional!",
+            "tags": [
+                "Job",
+                "Application",
+                "Interview"
+            ]
+        },
+        {
+            "id": 73,
+            "date": [
+                "July",
+                "11",
+                "2022"
+            ],
+            "emailSubject": "Project on Seaside!",
+            "sender": [
+                "Steve",
+                "Jobs",
+                "sjobs@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "And my waves meet your shore, ever and evermore",
+            "tags": [
+                "New Project",
+                "TagsSample",
+                "Another"
+            ]
+        },
+        {
+            "id": 74,
+            "date": [
+                "November",
+                "22",
+                "2022"
+            ],
+            "emailSubject": "Taylor Swift Concert",
+            "sender": [
+                "Taylor",
+                "Swift",
+                "tswift@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "You are invited to come to my concert! Free tickets!",
+            "tags": [
+                "VIP",
+                "Concert",
+                "Song"
+            ]
+        },
+        {
+            "id": 75,
+            "date": [
+                "December",
+                "2",
+                "2022"
+            ],
+            "emailSubject": "Meteor Shower",
+            "sender": [
+                "NASA",
+                "USA",
+                "nasa@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Join to see the meteor shower this saturday",
+            "tags": [
+                "Astronomy",
+                "Science",
+                "Meteor",
+                "YOLO"
+            ]
+        },
+        {
+            "id": 76,
+            "date": [
+                "March",
+                "23",
+                "2029"
+            ],
+            "emailSubject": "I'm getting married!",
+            "sender": [
+                "Selena",
+                "Gomez",
+                "selgom@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Come to my wedding please!",
+            "tags": [
+                "Wedding",
+                "Party",
+                "Beach"
+            ]
+        },
+        {
+            "id": 77,
+            "date": [
+                "March",
+                "23",
+                "2023"
+            ],
+            "emailSubject": "Angat Buhay Foundation",
+            "sender": [
+                "Leni",
+                "Robredo",
+                "lenrob@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Join us on our charity event this saturday!",
+            "tags": [
+                "Foundation",
+                "Transparency"
+            ]
+        },
+        {
+            "id": 78,
+            "date": [
+                "December",
+                "25",
+                "2023"
+            ],
+            "emailSubject": "Merry Christmas",
+            "sender": [
+                "Santa",
+                "Clause",
+                "santaclause@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "HO! HO! HO! MERRY CHRISMTAS!",
+            "tags": [
+                "Holiday",
+                "Break",
+                "No Work"
+            ]
+        },
+        {
+            "id": 79,
+            "date": [
+                "January",
+                "1",
+                "2024"
+            ],
+            "emailSubject": "Happy New Year!",
+            "sender": [
+                "Risa",
+                "Hontiveros",
+                "risahon@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Another year another platform for the poor!",
+            "tags": [
+                "New Year",
+                "New Me"
+            ]
+        },
+        {
+            "id": 80,
+            "date": [
+                "January",
+                "3",
+                "2022"
+            ],
+            "emailSubject": "Fwd: New Project 1",
+            "sender": [
+                "Leo",
+                "M'anoban",
+                "sbtest.khr@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Mr feeling do chiefly cordial in do. Water timed folly right aware if oh truth.!",
+            "tags": [
+                "New Project",
+                "Internship"
+            ]
+        },
+        {
+            "id": 81,
+            "date": [
+                "April",
+                "10",
+                "2022"
+            ],
+            "emailSubject": "Happy Birthday!",
+            "sender": [
+                "Maria",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "receiver": [
+                "Jeco",
+                "Villanueva",
+                "jjvils@gmail.com"
+            ],
+            "content": "Today is your birthday! :)",
+            "tags": [
+                "Birthday",
+                "Party",
+                "Break"
+            ]
+        },
+        {
+            "id": 82,
+            "date": [
+                "February",
+                "12",
+                "2025"
+            ],
+            "emailSubject": "Congratulations!",
+            "sender": [
+                "Sundar",
+                "Pichar",
+                "spichar@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "You are accepted as one of our sought after professional!",
+            "tags": [
+                "Job",
+                "Application",
+                "Interview"
+            ]
+        },
+        {
+            "id": 83,
+            "date": [
+                "July",
+                "11",
+                "2022"
+            ],
+            "emailSubject": "Project on Seaside!",
+            "sender": [
+                "Steve",
+                "Jobs",
+                "sjobs@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "And my waves meet your shore, ever and evermore",
+            "tags": [
+                "New Project",
+                "TagsSample",
+                "Another"
+            ]
+        },
+        {
+            "id": 84,
+            "date": [
+                "November",
+                "22",
+                "2022"
+            ],
+            "emailSubject": "Taylor Swift Concert",
+            "sender": [
+                "Taylor",
+                "Swift",
+                "tswift@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "You are invited to come to my concert! Free tickets!",
+            "tags": [
+                "VIP",
+                "Concert",
+                "Song"
+            ]
+        },
+        {
+            "id": 85,
+            "date": [
+                "December",
+                "2",
+                "2022"
+            ],
+            "emailSubject": "Meteor Shower",
+            "sender": [
+                "NASA",
+                "USA",
+                "nasa@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Join to see the meteor shower this saturday",
+            "tags": [
+                "Astronomy",
+                "Science",
+                "Meteor",
+                "YOLO"
+            ]
+        },
+        {
+            "id": 86,
+            "date": [
+                "March",
+                "23",
+                "2029"
+            ],
+            "emailSubject": "I'm getting married!",
+            "sender": [
+                "Selena",
+                "Gomez",
+                "selgom@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Come to my wedding please!",
+            "tags": [
+                "Wedding",
+                "Party",
+                "Beach"
+            ]
+        },
+        {
+            "id": 87,
+            "date": [
+                "March",
+                "23",
+                "2023"
+            ],
+            "emailSubject": "Angat Buhay Foundation",
+            "sender": [
+                "Leni",
+                "Robredo",
+                "lenrob@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Join us on our charity event this saturday!",
+            "tags": [
+                "Foundation",
+                "Transparency"
+            ]
+        },
+        {
+            "id": 88,
+            "date": [
+                "December",
+                "25",
+                "2023"
+            ],
+            "emailSubject": "Merry Christmas",
+            "sender": [
+                "Santa",
+                "Clause",
+                "santaclause@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "HO! HO! HO! MERRY CHRISMTAS!",
+            "tags": [
+                "Holiday",
+                "Break",
+                "No Work"
+            ]
+        },
+        {
+            "id": 89,
+            "date": [
+                "January",
+                "1",
+                "2024"
+            ],
+            "emailSubject": "Happy New Year!",
+            "sender": [
+                "Risa",
+                "Hontiveros",
+                "risahon@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Another year another platform for the poor!",
+            "tags": [
+                "New Year",
+                "New Me"
+            ]
+        },
+        {
+            "id": 90,
+            "date": [
+                "January",
+                "3",
+                "2022"
+            ],
+            "emailSubject": "Fwd: New Project 1",
+            "sender": [
+                "Leo",
+                "M'anoban",
+                "sbtest.khr@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Mr feeling do chiefly cordial in do. Water timed folly right aware if oh truth.!",
+            "tags": [
+                "New Project",
+                "Internship"
+            ]
+        },
+        {
+            "id": 91,
+            "date": [
+                "April",
+                "10",
+                "2022"
+            ],
+            "emailSubject": "Happy Birthday!",
+            "sender": [
+                "Maria",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "receiver": [
+                "Jeco",
+                "Villanueva",
+                "jjvils@gmail.com"
+            ],
+            "content": "Today is your birthday! :)",
+            "tags": [
+                "Birthday",
+                "Party",
+                "Break"
+            ]
+        },
+        {
+            "id": 92,
+            "date": [
+                "February",
+                "12",
+                "2025"
+            ],
+            "emailSubject": "Congratulations!",
+            "sender": [
+                "Sundar",
+                "Pichar",
+                "spichar@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "You are accepted as one of our sought after professional!",
+            "tags": [
+                "Job",
+                "Application",
+                "Interview"
+            ]
+        },
+        {
+            "id": 93,
+            "date": [
+                "July",
+                "11",
+                "2022"
+            ],
+            "emailSubject": "Project on Seaside!",
+            "sender": [
+                "Steve",
+                "Jobs",
+                "sjobs@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "And my waves meet your shore, ever and evermore",
+            "tags": [
+                "New Project",
+                "TagsSample",
+                "Another"
+            ]
+        },
+        {
+            "id": 94,
+            "date": [
+                "November",
+                "22",
+                "2022"
+            ],
+            "emailSubject": "Taylor Swift Concert",
+            "sender": [
+                "Taylor",
+                "Swift",
+                "tswift@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "You are invited to come to my concert! Free tickets!",
+            "tags": [
+                "VIP",
+                "Concert",
+                "Song"
+            ]
+        },
+        {
+            "id": 95,
+            "date": [
+                "December",
+                "2",
+                "2022"
+            ],
+            "emailSubject": "Meteor Shower",
+            "sender": [
+                "NASA",
+                "USA",
+                "nasa@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Join to see the meteor shower this saturday",
+            "tags": [
+                "Astronomy",
+                "Science",
+                "Meteor",
+                "YOLO"
+            ]
+        },
+        {
+            "id": 96,
+            "date": [
+                "March",
+                "23",
+                "2029"
+            ],
+            "emailSubject": "I'm getting married!",
+            "sender": [
+                "Selena",
+                "Gomez",
+                "selgom@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Come to my wedding please!",
+            "tags": [
+                "Wedding",
+                "Party",
+                "Beach"
+            ]
+        },
+        {
+            "id": 97,
+            "date": [
+                "March",
+                "23",
+                "2023"
+            ],
+            "emailSubject": "Angat Buhay Foundation",
+            "sender": [
+                "Leni",
+                "Robredo",
+                "lenrob@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Join us on our charity event this saturday!",
+            "tags": [
+                "Foundation",
+                "Transparency"
+            ]
+        },
+        {
+            "id": 98,
+            "date": [
+                "December",
+                "25",
+                "2023"
+            ],
+            "emailSubject": "Merry Christmas",
+            "sender": [
+                "Santa",
+                "Clause",
+                "santaclause@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "HO! HO! HO! MERRY CHRISMTAS!",
+            "tags": [
+                "Holiday",
+                "Break",
+                "No Work"
+            ]
+        },
+        {
+            "id": 99,
+            "date": [
+                "January",
+                "1",
+                "2024"
+            ],
+            "emailSubject": "Happy New Year!",
+            "sender": [
+                "Risa",
+                "Hontiveros",
+                "risahon@gmail.com"
+            ],
+            "receiver": [
+                "Juliana",
+                "Rolluqui",
+                "mjsr@gmail.com"
+            ],
+            "content": "Another year another platform for the poor!",
+            "tags": [
+                "New Year",
+                "New Me"
+            ]
+        }
+    ]
+}
