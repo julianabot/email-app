@@ -12,6 +12,5 @@ Internship exam where you need convert a layout into a working web page using HT
 
 ![App Screenshot](https://github.com/julianabot/email-app/blob/main/screenshots/delete-2.png?raw=true)
 
-
-
-
+# Some Installation Instructions
+In case there is an error, run npm install react-scripts --save
